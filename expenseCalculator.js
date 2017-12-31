@@ -149,9 +149,7 @@
                   document.getElementById("foodPercentage").innerHTML = "% for <b>food:</b>      " + foodPct.toFixed(1);
                   document.getElementById("householdPercentage").innerHTML = "% for <b>household items</b>:       " + householdPct.toFixed(1);
                   document.getElementById("transportationPercentage").innerHTML= "% for <b>transportation</b>      " + transportationPct.toFixed(1);
-                  document.getElementById("miscellaneousPercentage").innerHTML ="% for <b>miscellaneous</b>        " + miscellaneousPct.toFixed(1);
-
-
+                   document.getElementById("miscellaneousPercentage").innerHTML ="% for <b>miscellaneous</b>        " + miscellaneousPct.toFixed(1);
          } //end of calculatePercentages function
          
 
@@ -187,8 +185,8 @@
                   document.getElementById("shelterPercentage").innerHTML = "";      
                   document.getElementById("foodPercentage").innerHTML  = "";
                     document.getElementById("householdPercentage").innerHTML="";
-                    document.getElementById("transportationPercentage").innerHTML="";
+                  document.getElementById("transportationPercentage").innerHTML="";   
                     document.getElementById("miscellaneousPercentage").innerHTML="";
-
+                 
               
          }//end of clearForm function
