@@ -10,6 +10,6 @@ Andre Weir
 The monthly expense calcuator application computes a user's total living expenses for a given month and displays the percentage of the total expenses spent for each category.
 
 ### Click Link to View Project:
-https://aw13b.github.io/lesson4_javascript/
+https://aw13b.github.io/living_expense_calculator/
 
 
